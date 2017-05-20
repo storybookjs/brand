@@ -19,8 +19,8 @@ Storybook is a development environment for UI components. It allows you to brows
 
 | Colour     | HEX value |
 |------------|-----------|
-| Pink       | `#ED5A87` |
-| Purple     | `#894D95` |
+| Pink       | ![#ED5A87](https://placehold.it/15/ED5A87/000000?text=+) `#ED5A87` |
+| Purple     | ![#894D95](https://placehold.it/15/894D95/000000?text=+) `#894D95` |
 
 ---
 
