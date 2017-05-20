@@ -15,6 +15,13 @@ Storybook is a development environment for UI components. It allows you to brows
 
 ![Storybook logo](./logo/logo.png)
 
+### Primary colours
+
+| Colour     | HEX value |
+|------------|-----------|
+| Pink       | `#ED5A87` |
+| Purple     | `#894D95` |
+
 ---
 
 # About storybook
