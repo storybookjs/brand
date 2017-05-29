@@ -13,14 +13,14 @@ This repository contains materials such as images, videos, fonts, document templ
 Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
 
 
-![Storybook logo](./logo/logo.png)
+![Storybook logo](./logo/v3/logo.png)
 
 ### Primary colours
 
 | Colour     | HEX value |
 |------------|-----------|
-| Pink       | ![#ED5A87](https://placehold.it/15/ED5A87/000000?text=+) `#ED5A87` |
-| Purple     | ![#894D95](https://placehold.it/15/894D95/000000?text=+) `#894D95` |
+| Pink       | ![#F1618C](https://placehold.it/15/F1618C/000000?text=+) `#F1618C` |
+| Purple     | ![#B57EE5](https://placehold.it/15/B57EE5/000000?text=+) `#B57EE5` |
 
 ---
 
