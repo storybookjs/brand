@@ -33,7 +33,7 @@ Storybook is a development environment for UI components. It allows you to brows
 
 Storybook runs outside of your app. This allows you to develop UI components in isolation, which can improve component reuse, testability, and development speed. You can build quickly without having to worry about application-specific dependencies.
 
-For more information on what it is, and how to use it see here: [storybooks.js.org](https://storybooks.js.org).
+For more information on what it is, and how to use it see here: [storybook.js.org](https://storybook.js.org).
 
 If you want to have a look at the code you can find that here: [github.com/storybooks/storybook](https://github.com/storybooks/storybook).
 
