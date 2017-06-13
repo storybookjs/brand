@@ -1,4 +1,4 @@
-# Storybook pres materials
+# Storybook press materials
 
 >  for your articles and talks about storybook
 
