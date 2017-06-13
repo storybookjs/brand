@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 222 222" style="enable-background:new 0 0 222 222;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#B57EE5;}
+	.st2{fill:#F1618C;}
+	.st3{fill:#FFFFFF;}
+	.st4{display:none;fill:#FFFFFF;}
+	.st5{fill:#5F5F5D;}
+</style>
+<g id="Layer_1">
+	<title>storybook-avatar</title>
+	<desc>Created using Figma</desc>
+	<g id="Canvas" transform="matrix(2 0 0 2 -3278 -374)">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="1519.8" y="68.5" width="352" height="352"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="storybook-avatar" class="st0">
+				<g id="Group">
+					<g id="Pupur">
+						<g transform="translate(1717 251.182)">
+							<path id="path0_fill" class="st1" d="M1653.5,302.3l-5.5-116.1l-11.3-0.1l0.7,115.3L1653.5,302.3z"/>
+						</g>
+					</g>
+					<g id="Pink">
+						<g transform="translate(1730.82 236.92)">
+							<path id="path1_fill" class="st2" d="M1655.8,302.3l-5.5-116.1l102.6-5.2l0.3,120.3L1655.8,302.3z"/>
+						</g>
+					</g>
+					<g id="Bookmark">
+						<g transform="translate(1874.92 237.938)">
+							<path id="path2_fill" class="st3" d="M1728.5,224.7l17-42.8l8,2l-14.9,50.5l-2.4-12.6L1728.5,224.7z"/>
+						</g>
+					</g>
+					<g id="the_S">
+						<g id="new-S" transform="translate(1770.3 276.652)">
+							<path id="path3_fill" class="st3" d="M1704.8,228.6l17.9-0.4c0.4-17.3-8.6-25.9-24.2-25.9c-15.7,0-24.5,8.9-24.5,22.2
+								c0,23.2,30,23.7,30,36.3c0,3.6-1.7,5.7-5.3,5.7c-4.8,0-6.7-3.1-6.4-11.8h-18.8c-1.4,21.5,11.1,26.3,25.5,26.3
+								c13.9,0,24.8-6.4,24.8-20.5c0-24.9-30.5-24.2-30.5-36.6c0-5,3.6-5.7,5.7-5.7C1701.1,218.4,1705.1,219.3,1704.8,228.6z"/>
+						</g>
+						<path id="old-S" class="st4" d="M1722.6,254.2c0,4.4-1.1,8.4-3.4,11.8c-2.2,3.4-5.5,6.1-9.7,8c-4.2,1.9-9.2,2.9-14.9,2.9
+							c-4.8,0-8.7-0.3-12-1c-3.2-0.7-6.6-1.8-10.1-3.5v-17.2c3.7,1.9,7.5,3.4,11.5,4.4c4,1.1,7.6,1.6,10.9,1.6c2.9,0,5-0.5,6.3-1.5
+							c1.3-1,2-2.3,2-3.8c0-1-0.3-1.8-0.8-2.6c-0.5-0.7-1.4-1.5-2.6-2.2c-1.2-0.7-4.4-2.3-9.5-4.6c-4.7-2.1-8.1-4.2-10.5-6.2
+							c-2.3-2-4.1-4.3-5.2-6.8c-1.1-2.6-1.7-5.6-1.7-9.1c0-6.6,2.4-11.7,7.2-15.4c4.8-3.7,11.4-5.5,19.7-5.5
+							c7.4,0,14.9,1.7,22.6,5.1l-5.9,14.9c-6.7-3.1-12.4-4.6-17.3-4.6c-2.5,0-4.3,0.4-5.5,1.3c-1.1,0.9-1.7,2-1.7,3.3
+							c0,1.4,0.7,2.7,2.2,3.8c1.4,1.1,5.4,3.1,11.8,6.1c6.2,2.8,10.4,5.7,12.8,8.9C1721.4,245.3,1722.6,249.3,1722.6,254.2
+							L1722.6,254.2z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Round_mask">
+	<path class="st5" d="M-33.5-28v273h285V-28H-33.5z M111.5,222C50.5,222,1,172.3,1,111S50.5,0,111.5,0S222,49.7,222,111
+		S172.5,222,111.5,222z"/>
+</g>
+<g id="Square_mask">
+	<path class="st5" d="M-44-32.5v294h304.5v-294H-44z M222,222H0V0h222V222z"/>
+</g>
+</svg>
