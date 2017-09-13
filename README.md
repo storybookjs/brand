@@ -20,6 +20,10 @@ Storybook is a development environment for UI components. It allows you to brows
 |------------|-----------|
 | Pink       | ![#F1618C](https://placehold.it/15/F1618C/000000?text=+) `#F1618C` |
 | Purple     | ![#B57EE5](https://placehold.it/15/B57EE5/000000?text=+) `#B57EE5` |
+| Orange     | ![#f3ad38](https://placehold.it/15/f3ad38/000000?text=+) `#F3AD38` |
+| Blue       | ![#a2e05e](https://placehold.it/15/a2e05e/000000?text=+) `#A2E05E` |
+| Green      | ![#6dabf5](https://placehold.it/15/6dabf5/000000?text=+) `#6DABF5` |
+| Red        | ![#f16161](https://placehold.it/15/f16161/000000?text=+) `#F16161` |
 
 ---
 
