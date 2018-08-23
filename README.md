@@ -25,6 +25,10 @@ Storybook is a development environment for UI components. It allows you to brows
 | Blue       | ![#6dabf5](https://placehold.it/15/6dabf5/000000?text=+) `#6DABF5` |
 | Red        | ![#f16161](https://placehold.it/15/f16161/000000?text=+) `#F16161` |
 
+### Our badges
+
+![Storybook](https://github.com/storybooks/press/blob/master/badges/storybook.svg)
+
 ---
 
 # About storybook
