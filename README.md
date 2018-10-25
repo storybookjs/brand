@@ -8,7 +8,7 @@ For your articles and talks about storybook
 ---
 This repository contains materials such as images, videos, fonts, document templates, and styleguides for storybook.
 
-**Feel free to use any of provided material in your articles, videos and talks.**
+**Feel free to use any of the provided material in your articles, videos and talks.**
 
 Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
 
