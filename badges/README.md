@@ -1,3 +1,0 @@
-# Badges
-
-![Storybook](storybook.svg)
