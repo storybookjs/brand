@@ -1,118 +1,90 @@
-# Storybook press materials
+# Storybook brand
 
-For your articles and talks about storybook
+This repository contains Storybook brand assets. Feel free to use and customize these assets for your articles, talks, addons, websites, and anything else you can think of.
 
-[![Storybook Slack](https://now-examples-slackin-nqnzoygycp.now.sh/badge.svg)](https://now-examples-slackin-nqnzoygycp.now.sh/)
-[![Backers on Open Collective](https://opencollective.com/storybook/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/storybook/sponsors/badge.svg)](#sponsors)
+- Logo
+- Icon
+- Badge
+- Fonts
+- Colors
+- Presentation template
+- Illustrations
+- Video
 
----
-This repository contains materials such as images, videos, fonts, document templates, and styleguides for storybook.
+## Logo
 
-**Feel free to use any of the provided material in your articles, videos and talks.**
+| Default  |  Inverse  |
+|---|---|
+| ![Default](./logo/logo-storybook-default.svg) | ![Inverse](./logo/logo-storybook-inverse.svg) |
 
-Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
+## Icon
 
-![Storybook logo](./logo/v3/logo.png)
+| Default  |  Inverse  |  Monochrome |
+|---|---|---|
+| ![Default](./icon/icon-storybook-default.svg) | ![Inverse](./icon/icon-storybook-inverse.svg) | ![Monochrome](./icon/icon-storybook-monochrome.svg)|
 
-### Primary colours
+## Badge
 
-| Colour     | HEX value |
+Share that your project uses Storybook by adding our badge to your readme or website.
+
+![Badge](./badge/badge-storybook.svg)
+
+```
+<a href="https://github.com/storybooks/storybook" target="_blank"><img src="https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg"></a>
+```
+
+
+## Fonts
+Storybook uses these fonts on the website and promotional materials.
+
+| Font  |  Weights  |  Link |
+|---|---|---|
+| Nunito Sans  | 400 (normal), 600 (bold), 900 (black) | [Google fonts](https://fonts.google.com/specimen/Nunito+Sans), [Local](./fonts) |  
+| Daniel   |  black |  [Dafont](https://www.dafont.com/daniel.font) |
+
+**Note:** The Storybook UI includes the Nunito Sans webfont in the `font-family` declaration but *does not* require users to download it.
+
+
+## Colors
+
+| Color     | HEX value |
 |------------|-----------|
-| Pink       | ![#F1618C](https://placehold.it/15/F1618C/000000?text=+) `#F1618C` |
-| Purple     | ![#B57EE5](https://placehold.it/15/B57EE5/000000?text=+) `#B57EE5` |
-| Orange     | ![#f3ad38](https://placehold.it/15/f3ad38/000000?text=+) `#F3AD38` |
-| Green      | ![#a2e05e](https://placehold.it/15/a2e05e/000000?text=+) `#A2E05E` |
-| Blue       | ![#6dabf5](https://placehold.it/15/6dabf5/000000?text=+) `#6DABF5` |
-| Red        | ![#f16161](https://placehold.it/15/f16161/000000?text=+) `#F16161` |
-
-### Our badges
-
-![Storybook](https://github.com/storybooks/press/blob/master/badges/storybook.svg)
-
----
-
-# About storybook
-
-Storybook runs outside of your app. This allows you to develop UI components in isolation, which can improve component reuse, testability, and development speed. You can build quickly without having to worry about application-specific dependencies.
-
-For more information on what it is, and how to use it see here: [storybook.js.org](https://storybook.js.org).
-
-If you want to have a look at the code you can find that here: [github.com/storybooks/storybook](https://github.com/storybooks/storybook).
+| Coral       | ![#FF4785](https://placehold.it/15/FF4785/000000?text=+) `#FF4785` |
+| Ocean     | ![#1EA7FD](https://placehold.it/15/1EA7FD/000000?text=+) `#1EA7FD` |
+| Orange     | ![#FC521F](https://placehold.it/15/FC521F/000000?text=+) `#FC521F` |
+| Gold      | ![#FFAE00](https://placehold.it/15/FFAE00/000000?text=+) `#FFAE00` |
+| Green       | ![#66BF3C](https://placehold.it/15/66BF3C/000000?text=+) `#66BF3C` |
+| Seafoam      | ![#37D5D3](https://placehold.it/15/37D5D3/000000?text=+) `#37D5D3` |
+| Purple      | ![#6F2CAC](https://placehold.it/15/6F2CAC/000000?text=+) `#6F2CAC` |
+| Ultraviolet      | ![#2A0481](https://placehold.it/15/2A0481/000000?text=+) `#2A0481` |
 
 
-## Contributing to storybook
+| Monochrome  | HEX value |
+|------------|-----------|
+| Darkest       | ![#333333](https://placehold.it/15/333333/000000?text=+) `#333333` |
+| Darker     | ![#444444](https://placehold.it/15/444444/000000?text=+) `#444444` |
+| Dark     | ![#666666](https://placehold.it/15/666666/000000?text=+) `#666666` |
+| Mediumdark      | ![#999999](https://placehold.it/15/999999/000000?text=+) `#999999` |
+| Medium       | ![#DDDDDD](https://placehold.it/15/DDDDDD/000000?text=+) `#DDDDDD` |
+| Mediumlight      | ![#EEEEEE](https://placehold.it/15/EEEEEE/000000?text=+) `#EEEEEE` |
+| Light      | ![#F3F3F3](https://placehold.it/15/F3F3F3/000000?text=+) `#F3F3F3` |
+| Lighter      | ![#F8F8F8](https://placehold.it/15/F8F8F8/000000?text=+) `#F8F8F8` |
+| Lightest      | ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF` |
 
-We welcome contributions to Storybook! There are many ways to contribute to this project. [Get started here](https://github.com/storybooks/storybook/CONTRIBUTING.md)
+## Presentation template
+Share Storybook at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
 
-We also have a [Open Collective](https://opencollective.com) option for people or companies who use our product and want to support maintenance and development.
+[**View presentation**](./presentation)
 
-### Backers
+## Illustrations
+Custom illustrations are located in [/illustrations](./illustrations).
+For illustations used on the website go to [storybooks/frontpage](https://github.com/storybooks/frontpage/).
 
-Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/storybook#backer)]
+## Video
+The intro video, source files, and assets are located in [/video](./video).
 
-<a href="https://opencollective.com/storybook/backer/0/website" target="_blank"><img src="https://opencollective.com/storybook/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/1/website" target="_blank"><img src="https://opencollective.com/storybook/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/2/website" target="_blank"><img src="https://opencollective.com/storybook/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/3/website" target="_blank"><img src="https://opencollective.com/storybook/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/4/website" target="_blank"><img src="https://opencollective.com/storybook/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/5/website" target="_blank"><img src="https://opencollective.com/storybook/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/6/website" target="_blank"><img src="https://opencollective.com/storybook/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/7/website" target="_blank"><img src="https://opencollective.com/storybook/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/8/website" target="_blank"><img src="https://opencollective.com/storybook/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/9/website" target="_blank"><img src="https://opencollective.com/storybook/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/10/website" target="_blank"><img src="https://opencollective.com/storybook/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/11/website" target="_blank"><img src="https://opencollective.com/storybook/backer/11/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/12/website" target="_blank"><img src="https://opencollective.com/storybook/backer/12/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/13/website" target="_blank"><img src="https://opencollective.com/storybook/backer/13/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/14/website" target="_blank"><img src="https://opencollective.com/storybook/backer/14/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/15/website" target="_blank"><img src="https://opencollective.com/storybook/backer/15/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/16/website" target="_blank"><img src="https://opencollective.com/storybook/backer/16/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/17/website" target="_blank"><img src="https://opencollective.com/storybook/backer/17/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/18/website" target="_blank"><img src="https://opencollective.com/storybook/backer/18/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/19/website" target="_blank"><img src="https://opencollective.com/storybook/backer/19/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/20/website" target="_blank"><img src="https://opencollective.com/storybook/backer/20/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/21/website" target="_blank"><img src="https://opencollective.com/storybook/backer/21/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/22/website" target="_blank"><img src="https://opencollective.com/storybook/backer/22/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/23/website" target="_blank"><img src="https://opencollective.com/storybook/backer/23/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/24/website" target="_blank"><img src="https://opencollective.com/storybook/backer/24/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/25/website" target="_blank"><img src="https://opencollective.com/storybook/backer/25/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/26/website" target="_blank"><img src="https://opencollective.com/storybook/backer/26/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/27/website" target="_blank"><img src="https://opencollective.com/storybook/backer/27/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/28/website" target="_blank"><img src="https://opencollective.com/storybook/backer/28/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/backer/29/website" target="_blank"><img src="https://opencollective.com/storybook/backer/29/avatar.svg"></a>
+![Video](./video/2017/storybook-intro-animation.gif)
 
-
-### Sponsors
-
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/storybook#sponsor)]
-
-<a href="https://opencollective.com/storybook/sponsor/0/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/1/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/2/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/3/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/4/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/5/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/6/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/7/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/8/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/9/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/10/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/10/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/11/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/11/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/12/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/12/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/13/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/13/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/14/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/14/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/15/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/15/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/16/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/16/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/17/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/17/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/18/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/18/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/19/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/19/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/20/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/20/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/21/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/21/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/22/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/22/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/23/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/23/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/24/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/24/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/25/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/25/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/26/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/26/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/27/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/27/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/28/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/28/avatar.svg"></a>
-<a href="https://opencollective.com/storybook/sponsor/29/website" target="_blank"><img src="https://opencollective.com/storybook/sponsor/29/avatar.svg"></a>
+### Thank you
+- [Sacha Grief](https://github.com/SachaG) the awesome designer of the previous logo
+- [Daniel Egerev](https://twitter.com/iDanb0) the amazing video animator
