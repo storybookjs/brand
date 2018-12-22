@@ -85,6 +85,6 @@ The intro video, source files, and assets are located in [/video](./video).
 
 ![Video](./video/2017/storybook-intro-animation.gif)
 
-### Thank you
-- [Sacha Grief](https://github.com/SachaG) the awesome designer of the previous logo
+#### Thanks
+- [Sacha Grief](https://github.com/SachaG) the awesome designer of the 2017 logo (which inspired the current logo and icon)
 - [Daniel Egerev](https://twitter.com/iDanb0) the amazing video animator
