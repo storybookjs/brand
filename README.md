@@ -83,7 +83,7 @@ For illustations used on the website go to [storybooks/frontpage](https://github
 ## Video
 The intro video, source files, and assets are located in [/video](./video).
 
-![Video](./video/2017/storybook-intro-animation.gif)
+![Video](./video/2018/storybook-intro-animation.gif)
 
 #### Thanks
 - [Sacha Grief](https://github.com/SachaG) the awesome designer of the 2017 logo (which inspired the current logo and icon)
