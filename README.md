@@ -78,7 +78,7 @@ Share Storybook at work, meetups, and conferences. Get a head start on your slid
 
 ## Illustrations
 Custom illustrations are located in [/illustrations](./illustrations).
-For illustations used on the website go to [storybooks/frontpage](https://github.com/storybooks/frontpage/).
+For illustrations used on the website go to [storybooks/frontpage](https://github.com/storybooks/frontpage/).
 
 ## Video
 The intro video, source files, and assets are located in [/video](./video).
