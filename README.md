@@ -20,9 +20,11 @@ This repository contains Storybook brand assets. Feel free to use and customize 
 
 ## Icon
 
-| Default  |  Inverse  |  Monochrome |
-|---|---|---|
-| ![Default](./icon/icon-storybook-default.svg) | ![Inverse](./icon/icon-storybook-inverse.svg) (white icon) | ![Monochrome](./icon/icon-storybook-monochrome.svg)|
+| Version | Preview |
+|---|---|
+| Default | ![Default](./icon/icon-storybook-default.svg) |  
+| Inverse | ![Inverse](./icon/icon-storybook-inverse.svg) (white icon) |
+| Monochrome | ![Monochrome](./icon/icon-storybook-monochrome.svg) |
 
 ## Badge
 
