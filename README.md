@@ -47,6 +47,7 @@ Storybook uses these fonts on the website and promotional materials.
 
 **Note:** The Storybook UI includes the Nunito Sans webfont in the `font-family` declaration but *does not* require users to download it.
 
+### Colors
 | Color     | HEX value |
 |------------|-----------|
 | Coral       | ![#FF4785](https://www.singlecolorimage.com/get/FF4785/15x15)  `#FF4785` |
