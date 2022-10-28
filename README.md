@@ -2,14 +2,14 @@
 
 This repository contains Storybook brand assets. Feel free to use and customize these assets for your articles, talks, addons, websites, and anything else you can think of.
 
-- Logo
-- Icon
-- Badge
-- Fonts
-- Colors
-- Presentation template
-- Illustrations
-- Video
+- [Logo](./logo)
+- [Icon](./icon)
+- [Badge](./badge)
+- [Fonts](./fonts)
+- [Colors](#fonts)
+- [Presentation template](./presentation)
+- [Illustrations](./illustrations)
+- [Video](./video)
 
 ## Logo
 
