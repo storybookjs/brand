@@ -50,27 +50,27 @@ Storybook uses these fonts on the website and promotional materials.
 ### Colors
 | Color     | HEX value |
 |------------|-----------|
-| Coral       | ![#FF4785](https://www.singlecolorimage.com/get/FF4785/15x15)  `#FF4785` |
-| Ocean     | ![#006DEB](https://www.singlecolorimage.com/get/006DEB/15x15) `#006DEB` |
-| Orange     | ![#FC521F](https://www.singlecolorimage.com/get/FC521F/15x15) `#FC521F` |
-| Gold      | ![#FFAE00](https://www.singlecolorimage.com/get/FFAE00/15x15) `#FFAE00` |
-| Green       | ![#66BF3C](https://www.singlecolorimage.com/get/66BF3C/15x15) `#66BF3C` |
-| Seafoam      | ![#37D5D3](https://www.singlecolorimage.com/get/37D5D3/15x15) `#37D5D3` |
-| Purple      | ![#6F2CAC](https://www.singlecolorimage.com/get/6F2CAC/15x15) `#6F2CAC` |
-| Ultraviolet      | ![#2A0481](https://www.singlecolorimage.com/get/2A0481/15x15) `#2A0481` |
+| Coral       | ![](https://www.singlecolorimage.com/get/FF4785/15x15)  `#FF4785` |
+| Ocean     | ![](https://www.singlecolorimage.com/get/006DEB/15x15) `#006DEB` |
+| Orange     | ![](https://www.singlecolorimage.com/get/FC521F/15x15) `#FC521F` |
+| Gold      | ![](https://www.singlecolorimage.com/get/FFAE00/15x15) `#FFAE00` |
+| Green       | ![](https://www.singlecolorimage.com/get/66BF3C/15x15) `#66BF3C` |
+| Seafoam      | ![](https://www.singlecolorimage.com/get/37D5D3/15x15) `#37D5D3` |
+| Purple      | ![](https://www.singlecolorimage.com/get/6F2CAC/15x15) `#6F2CAC` |
+| Ultraviolet      | ![](https://www.singlecolorimage.com/get/2A0481/15x15) `#2A0481` |
 
 
 | Monochrome  | HEX value |
 |------------|-----------|
-| Darkest       | ![#2E3338](https://www.singlecolorimage.com/get/2E3338/15x15) `#2E3338` |
-| Darker     | ![#454C54](https://www.singlecolorimage.com/get/454C54/15x15) `#454C54` |
-| Dark     | ![#5C6570](https://www.singlecolorimage.com/get/5C6570/15x15) `#5C6570` |
-| Mediumdark      | ![#737F8C](https://www.singlecolorimage.com/get/737F8C/15x15) `#737F8C` |
-| Medium       | ![#D9E5F2](https://www.singlecolorimage.com/get/D9E5F2/15x15) `#D9E5F2` |
-| Mediumlight      | ![#ECF2F9](https://www.singlecolorimage.com/get/ECF2F9/15x15) `#ECF2F9` |
-| Light      | ![#EEF2F6](https://www.singlecolorimage.com/get/EEF2F6/15x15) `#EEF2F6` |
-| Lighter      | ![#F6F9FC](https://www.singlecolorimage.com/get/F6F9FC/15x15) `#F6F9FC` |
-| Lightest      | ![#FFFFFF](https://www.singlecolorimage.com/get/FFFFFF/15x15) `#FFFFFF` |
+| Darkest       | ![](https://www.singlecolorimage.com/get/2E3338/15x15) `#2E3338` |
+| Darker     | ![](https://www.singlecolorimage.com/get/454C54/15x15) `#454C54` |
+| Dark     | ![](https://www.singlecolorimage.com/get/5C6570/15x15) `#5C6570` |
+| Mediumdark      | ![](https://www.singlecolorimage.com/get/737F8C/15x15) `#737F8C` |
+| Medium       | ![](https://www.singlecolorimage.com/get/D9E5F2/15x15) `#D9E5F2` |
+| Mediumlight      | ![](https://www.singlecolorimage.com/get/ECF2F9/15x15) `#ECF2F9` |
+| Light      | ![](https://www.singlecolorimage.com/get/EEF2F6/15x15) `#EEF2F6` |
+| Lighter      | ![](https://www.singlecolorimage.com/get/F6F9FC/15x15) `#F6F9FC` |
+| Lightest      | ![](https://www.singlecolorimage.com/get/FFFFFF/15x15) `#FFFFFF` |
 
 ## Presentation template
 Share Storybook at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
